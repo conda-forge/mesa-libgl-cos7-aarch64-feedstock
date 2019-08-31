@@ -9,7 +9,7 @@ Feedstock license: BSD 3-Clause
 
 Summary: (CDT) Mesa libGL runtime libraries and DRI drivers<Paste>
 
-Mesa libGL runtime library.
+Mesa libGL runtime library. 
 
 Current build status
 ====================
